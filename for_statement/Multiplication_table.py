@@ -1,4 +1,4 @@
 i = int(input())
 
 for j in range(1, 10):
-    print("2 * "+j+"="+i*j)
+    print(i,"*",j,"=",i*j)
